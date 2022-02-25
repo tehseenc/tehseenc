@@ -4,7 +4,7 @@ I'm **Tehseen**. A **Full-Stack Engineer** working remotely at Photodump from To
 
 <h3 align="left">Some quick facts about me</h3>
 
-- 🧑‍💻 My current day to day stack includes React Native, AWS Amplify (Cognito, API, S3), and GraphQL
+- 🧑‍💻 My current day to day stack includes React Native, AWS Amplify (Cognito, AppSync, S3, DynamoDB), and GraphQL
 - 🌱 I’m a quick learner and can pickup new technologies fairly quickly with the power of the internet.
 - 🎓 I have a degree in Computer Science
 - 💻 I also have experience/familiarity with React JS, HTML, CSS, Flutter, Node.JS, Django, Figma, Adobe XD
