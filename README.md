@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 
 I'm **Tehseen**. A **Full-Stack Engineer** working remotely at Photodump from Toronto, Canada. Currently I am building a media heavy; social media mobile application to change the landscape of how users consume content.
 
