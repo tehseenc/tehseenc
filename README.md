@@ -1,5 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
 
+**OUT OF DATE**
+
 I'm **Tehseen**. A **Full-Stack Engineer** working remotely at VectorSolv from Toronto, Canada. Previously, I was at Photodump building a media heavy; social media mobile application to change the landscape of how users consume content.
 
 <h3 align="left">Some quick facts about me</h3>
